@@ -1,5 +1,5 @@
 
-|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png) | Deis Workflow will soon no longer be maintained.<br />Please [read the announcement](https://deis.com/blog/2017/deis-workflow-final-release/) for more detail. |
+|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png) | Deis Workflow will soon no longer be maintained.<br />Please [read the announcement](https://deis.cc/blog/2017/deis-workflow-final-release/) for more detail. |
 |---:|---|
 | 09/07/2017 | Deis Workflow [v2.18][] final release before entering maintenance mode |
 | 03/01/2018 | End of Workflow maintenance: critical patches no longer merged |
@@ -8,7 +8,7 @@
 
 Deis (pronounced DAY-iss) Workflow is an open source Platform as a Service (PaaS) that adds a developer-friendly layer to any [Kubernetes](http://kubernetes.io) cluster, making it easy to deploy and manage applications on your own servers.
 
-For more information about the Deis Workflow, please visit the main project page at https://github.com/deisthree/workflow.
+For more information about the Deis Workflow, please visit the main project page at https://github.com/deiscc/workflow.
 
 We welcome your input! If you have feedback, please [submit an issue][issues]. If you'd like to participate in development, please read the "Development" section below and [submit a pull request][prs].
 
@@ -31,7 +31,7 @@ The Deis project welcomes contributions from all developers. The high level proc
 When you've built your new feature or fixed a bug, make sure you've added appropriate unit tests and run `make test` to ensure your code works properly.
 
 
-[issues]: https://github.com/deisthree/registry-proxy/issues
-[prs]: https://github.com/deisthree/registry-proxy/pulls
-[registry]: https://github.com/deisthree/registry
-[v2.18]: https://github.com/deisthree/workflow/releases/tag/v2.18.0
+[issues]: https://github.com/deiscc/registry-proxy/issues
+[prs]: https://github.com/deiscc/registry-proxy/pulls
+[registry]: https://github.com/deiscc/registry
+[v2.18]: https://github.com/deiscc/workflow/releases/tag/v2.18.0
